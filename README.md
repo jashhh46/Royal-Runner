@@ -1,4 +1,4 @@
-# Royal Run 🎮
+# Royal Runner 🎮
 
 Royal Run is a **3D endless runner game** developed in **Unity using C#**, where the player continuously runs through an endless environment, avoids obstacles, collects coins, and aims for the highest possible score.
 
